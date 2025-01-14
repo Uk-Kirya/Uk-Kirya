@@ -43,7 +43,7 @@ Here are the technologies and tools I work with:
 ## How to contact me? 📬  
 
 If you have questions, ideas, or just want to chat, feel free to reach out:  
-- **Telegram:** @kirilllossev 
+- **Telegram:** [@kirilllossev](https://t.me/kirilllossev)
 - **Email:** udarnik.kirill@gmail.com 
 
 ---
