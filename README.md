@@ -26,7 +26,7 @@ Here are the technologies and tools I work with:
 | **DevOps**     | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)                                                                 |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)                                                                 |
 | **Frontend**   | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Design**     | ![UX/UI](https://img.shields.io/badge/UX/UI-FF6F61?style=flat&logo=adobe-xd&logoColor=white)                                                                 |
+| **Design**     | ![UX/UI](https://img.shields.io/badge/UX/UI-FF6F61?style=flat&logo=adobe-xd&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |                                                           |
 
 ## Why am I here? 🌟  
 
