@@ -1,39 +1,52 @@
-# 👋 Привет, меня зовут Кирилл!  
+# 👋 Hi, my name is Kirill!  
 
-Рад видеть вас на своей странице! 🎉  
-Здесь вы найдёте мои проекты, идеи и, возможно, немного вдохновения.  
+Welcome to my page! 🎉  
+Here you'll find my projects, ideas, and maybe a little inspiration.  
 
-## Немного обо мне 🧑‍💻  
+## A little about me 🧑‍💻  
 
-- 🏠 Живу в солнечном Сочи, Россия.  
-- 👨‍👩‍👧‍👦 Счастливый муж и отец двоих детей.  
-- 💻 Обожаю программировать и решать сложные задачи.  
-- 🏋️‍♂️ Занимаюсь спортом, чтобы держать себя в форме.  
-- 🎵 Люблю музыку — она вдохновляет меня на новые идеи.  
+- 🏠 I live in sunny Sochi, Russia.  
+- 👨‍👩‍👧‍👦 A happy husband and father of two children.  
+- 💻 I love programming and solving complex problems.  
+- 🏋️‍♂️ I work out to stay in shape.  
+- 🎵 I love music—it inspires me to come up with new ideas.  
 
-## Что я делаю? 🛠️  
+## What do I do? 🛠️  
 
-Я создаю проекты, которые помогают людям, упрощают жизнь или просто делают мир немного лучше. Здесь вы найдёте мои эксперименты, рабочие проекты и, возможно, что-то, что вас зацепит.  
+I create projects that help people, make life easier, or simply make the world a little better. Here you'll find my experiments, work projects, and maybe something that catches your eye.  
 
-## Почему я здесь? 🌟  
+## My Tech Stack 🛠️  
 
-- Потому что программирование — это не просто работа, это страсть.  
-- Потому что я верю, что код может изменить мир.  
-- Потому что я люблю делиться своими идеями и учиться у других.  
+Here are the technologies and tools I work with:  
 
-## Что вы найдёте в этом репозитории? 📂  
+| Category       | Technologies                                                                                     |
+|----------------|--------------------------------------------------------------------------------------------------|
+| **Backend**    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
+| **Database**   | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)                                                                 |
+| **DevOps**     | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)                                                                 |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)                                                                 |
+| **Frontend**   | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Design**     | ![UX/UI](https://img.shields.io/badge/UX/UI-FF6F61?style=flat&logo=adobe-xd&logoColor=white)                                                                 |
 
-- 🧩 Интересные проекты.  
-- 🛠️ Полезные инструменты.  
-- 💡 Идеи, которые могут вдохновить.  
+## Why am I here? 🌟  
 
-## Как со мной связаться? 📬  
+- Because programming is not just a job, it's a passion.  
+- Because I believe that code can change the world.  
+- Because I love sharing my ideas and learning from others.  
 
-Если у вас есть вопросы, идеи или просто хочется поболтать, пишите:  
-- **Telegram:** [ваш контакт]  
-- **Email:** [ваш email]  
+## What will you find in this repository? 📂  
+
+- 🧩 Interesting projects.  
+- 🛠️ Useful tools.  
+- 💡 Ideas that might inspire you.  
+
+## How to contact me? 📬  
+
+If you have questions, ideas, or just want to chat, feel free to reach out:  
+- **Telegram:** @kirilllossev 
+- **Email:** udarnik.kirill@gmail.com 
 
 ---
 
-Спасибо, что заглянули! Надеюсь, вам тут понравится.  
-Давайте делать мир лучше вместе! 🚀  
+Thank you for stopping by! I hope you enjoy your time here.  
+Let's make the world a better place together! 🚀
